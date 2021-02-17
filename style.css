@@ -1,0 +1,11 @@
+h1, h2 {
+  font-family: Lato;
+}
+footer{
+  margin:20px 0px;
+  padding:10px 20px;
+  background: green;
+}
+section p{
+  color:red;
+}
